@@ -1,0 +1,2 @@
+[default]
+limits = { file = "10 MiB" }
